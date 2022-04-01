@@ -3,7 +3,7 @@ This repository contains my code submissions and output files for MissionWired's
 
 Notebooks
 - [01-data-engineer-exercise.ipynb](https://github.com/ctnormand1/missionwired-data-engineer-exercise/blob/main/01-data-engineer-exercise.ipynb) - Code for Exercise 1
-- [01-data-engineer-exercise.ipynb](https://github.com/ctnormand1/missionwired-data-engineer-exercise/blob/main/02-data-engineer-exercise.ipynb) - Code for Exercise 2
+- [02-data-engineer-exercise.ipynb](https://github.com/ctnormand1/missionwired-data-engineer-exercise/blob/main/02-data-engineer-exercise.ipynb) - Code for Exercise 2
 
 Output Files
 - [people.csv](https://github.com/ctnormand1/missionwired-data-engineer-exercise/blob/main/people.csv) - Output from Exercise 1
